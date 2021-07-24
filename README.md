@@ -1,3 +1,5 @@
+This is my (GTN-git) work day scheduler challenge assignment from my Coding Boot Camp. This web application utilizes Jquery, Bootstrap and Moment.js to create a task scheduler for an average work day. It will save to local storage and persist throughout refreshes and different browser sessions.
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
